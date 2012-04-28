@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
 
-    <string name="hello">Hello World, StatusActivity!</string>
     <string name="app_name">Yamba!</string>
+    <string name="titleYamba">Yamba</string>
+    <string name="titleStatus">Status Update</string>
+    <string name="hintText">Please enter your 140-character status</string>
+    <string name="buttonUpdate">Update</string>
 
 </resources>
